@@ -1,6 +1,6 @@
 # Teste
 
 
-- Agora update
+- Agora update + Alteração na linha excluida
 
 - Terceira linha pra merge
